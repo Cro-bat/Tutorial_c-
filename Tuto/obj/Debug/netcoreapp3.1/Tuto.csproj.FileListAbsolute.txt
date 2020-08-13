@@ -1,0 +1,13 @@
+C:\Users\tonyr\source\repos\Tuto\Tuto\bin\Debug\netcoreapp3.1\Tuto.exe
+C:\Users\tonyr\source\repos\Tuto\Tuto\bin\Debug\netcoreapp3.1\Tuto.deps.json
+C:\Users\tonyr\source\repos\Tuto\Tuto\bin\Debug\netcoreapp3.1\Tuto.runtimeconfig.json
+C:\Users\tonyr\source\repos\Tuto\Tuto\bin\Debug\netcoreapp3.1\Tuto.runtimeconfig.dev.json
+C:\Users\tonyr\source\repos\Tuto\Tuto\bin\Debug\netcoreapp3.1\Tuto.dll
+C:\Users\tonyr\source\repos\Tuto\Tuto\bin\Debug\netcoreapp3.1\Tuto.pdb
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.AssemblyInfoInputs.cache
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.AssemblyInfo.cs
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.csproj.CoreCompileInputs.cache
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.dll
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.pdb
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.genruntimeconfig.cache
+C:\Users\tonyr\source\repos\Tuto\Tuto\obj\Debug\netcoreapp3.1\Tuto.csprojAssemblyReference.cache
